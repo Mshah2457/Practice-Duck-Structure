@@ -35,7 +35,7 @@ export default class SampleDumbComponent extends PureComponent<Props, State> {
                     {`BAR: ${bar}`}
                 </Text>
                 <Text>
-                    {`BAZ: ${baz}`}
+                   ghghfhhfgh {`BAZ: ${baz}`}
                 </Text>
             </View>
         );

@@ -1,0 +1,3 @@
+export {
+    SampleModel
+} from './sampleModel';

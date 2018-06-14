@@ -1,0 +1,52 @@
+{
+  "name": "Agordia-RN",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./node_modules/react-native-scripts-ts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts-ts start",
+    "clean": "rm -rf ./node_modules && rm -rf ./.expo && rm yarn.lock && yarn install",
+    "test": "node node_modules/jest/bin/jest.js",
+    "test:watch": "node node_modules/jest/bin/jest.js --watch",
+    "test:snapshots": "node node_modules/jest/bin/jest.js -u",
+    "mock": "json-server --watch mock/db.json"
+  },
+  "jest": {
+    "preset": "jest-expo-ts"
+  },
+  "dependencies": {
+    "apollo-client-preset": "1.0.6",
+    "date-fns": "1.29.0",
+    "expo": "24.0.0",
+    "graphql": "0.12.3",
+    "graphql-tag": "2.6.1",
+    "immutable": "3.8.2",
+    "moment": "2.20.1",
+    "prop-types": "15.5.10",
+    "react": "16.0.0",
+    "react-apollo": "2.0.4",
+    "react-native": "0.51.0",
+    "react-navigation": "1.0.0-beta.21",
+    "react-redux": "5.0.6",
+    "redux": "3.7.2",
+    "redux-actions": "2.2.1",
+    "redux-immutablejs": "0.0.8",
+    "redux-thunk": "2.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "16.0.5",
+    "@types/react-native": "0.48.4",
+    "@types/react-test-renderer": "15.5.4",
+    "axios": "0.17.1",
+    "babel-preset-react-native": "4.0.0",
+    "jest-expo-ts": "20.0.0",
+    "json-server": "^0.12.1",
+    "react-native-scripts-ts": "1.7.0",
+    "react-native-typescript-transformer": "1.1.4",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "redux-devtools": "3.4.1",
+    "text-encoding": "0.6.4",
+    "tslib": "1.7.1",
+    "typescript": "2.5.2"
+  }
+}

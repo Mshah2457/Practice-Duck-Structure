@@ -1,0 +1,140 @@
+{
+    "profiles": [
+        {
+            "id": 1,
+            "name": "Jane Doe",
+            "title": "Some Text 1",
+            "geoLocation": [
+                -99.08211937143126,
+                40.709784262856864
+            ],
+            "bookmarkStatus": false,
+            "match": {
+                "value": 80,
+                "title": "Description"
+            },
+            "attributes": [
+                {
+                    "title": "Some Attribute Title",
+                    "value": 80
+                },
+                {
+                    "title": "Some Attribute Title 2",
+                    "value": 50
+                },
+                {
+                    "title": "Some Attribute Title 3",
+                    "value": 20
+                },
+                {
+                    "title": "Some Attribute Title 4",
+                    "value": 75
+                }
+            ],
+            "phoneNumber": 8005551234,
+            "avatar": "https://www.shareicon.net/download/2016/05/26/771190_people_512x512.png"
+        },
+        {
+            "id": 2,
+            "name": "John Doe",
+            "title": "Some Text 1",
+            "geoLocation": [
+                -99.08211937143126,
+                40.709784262856864
+            ],
+            "bookmarkStatus": false,
+            "match": {
+                "value": 80,
+                "title": "Description"
+            },
+            "attributes": [
+                {
+                    "title": "Some Attribute Title",
+                    "value": 80
+                },
+                {
+                    "title": "Some Attribute Title 2",
+                    "value": 50
+                },
+                {
+                    "title": "Some Attribute Title 3",
+                    "value": 20
+                },
+                {
+                    "title": "Some Attribute Title 4",
+                    "value": 75
+                }
+            ],
+            "phoneNumber": 8005551234,
+            "avatar": "https://www.shareicon.net/download/2016/05/26/771187_man_512x512.png"
+        },
+        {
+            "id": 3,
+            "name": "Jack Smith",
+            "title": "Some Text 1",
+            "geoLocation": [
+                -99.08211937143126,
+                40.709784262856864
+            ],
+            "bookmarkStatus": false,
+            "match": {
+                "value": 80,
+                "title": "Description"
+            },
+            "attributes": [
+                {
+                    "title": "Some Attribute Title",
+                    "value": 80
+                },
+                {
+                    "title": "Some Attribute Title 2",
+                    "value": 50
+                },
+                {
+                    "title": "Some Attribute Title 3",
+                    "value": 20
+                },
+                {
+                    "title": "Some Attribute Title 4",
+                    "value": 75
+                }
+            ],
+            "phoneNumber": 8005551234,
+            "avatar": "https://www.shareicon.net/download/2016/05/26/771203_man_512x512.png"
+        },
+        {
+            "id": 5,
+            "name": "Maria Smith",
+            "title": "Some Text 1",
+            "geoLocation": [
+                -99.08211937143126,
+                40.709784262856864
+            ],
+            "bookmarkStatus": false,
+            "match": {
+                "value": 80,
+                "title": "Description"
+            },
+            "attributes": [
+                {
+                    "title": "Some Attribute Title",
+                    "value": 80
+                },
+                {
+                    "title": "Some Attribute Title 2",
+                    "value": 50
+                },
+                {
+                    "title": "Some Attribute Title 3",
+                    "value": 20
+                },
+                {
+                    "title": "Some Attribute Title 4",
+                    "value": 75
+                }
+            ],
+            "phoneNumber": 8005551234,
+            "avatar": "https://www.shareicon.net/download/2016/05/26/771201_people_512x512.png"
+        }
+    ]
+}
